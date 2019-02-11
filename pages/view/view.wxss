@@ -1,0 +1,21 @@
+.flex-wrp{
+  display: flex;
+  color:#fff;
+}
+.flex-item{
+  width: 250rpx;
+  height: 200px;
+  display: flex;
+  flex-direction:row;
+  justify-content:center;
+  align-items:center;
+}
+.bc_green{
+  background: green
+}
+.bc_red{
+  background: red
+}
+.bc_blue{
+  background: blue
+}
