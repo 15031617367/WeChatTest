@@ -1,0 +1,8 @@
+<!--pages/weather/weather.wxml-->
+<view>
+  <text>test2</text>
+  <input type='text'  bindinput='testInput' placeholder="请输入"/>
+  <text>双向数据绑定：{{testInputVlaue}}</text>
+</view>
+
+
